@@ -1,2 +1,2 @@
 # no-contributors-zone
-A repo without collaborators
+A repo with collaborators
